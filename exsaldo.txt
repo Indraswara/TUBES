@@ -1,0 +1,2 @@
+id,besar_exsaldo,bulan_exsaldo,
+1,785000.0,april ,
